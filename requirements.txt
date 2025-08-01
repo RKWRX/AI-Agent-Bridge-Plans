@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+paddleocr
+paddlepaddle
+# PDF and OCR support
+pdf2image
+PyMuPDF
+# Excel and data handling
+pandas
+openpyxl
+# Environment variables
+python-dotenv
+# For compatibility and package builds
+setuptools
